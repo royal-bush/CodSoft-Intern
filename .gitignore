@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# IDE configs
+.vscode/
+.DS_Store
